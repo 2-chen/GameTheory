@@ -1,3 +1,5 @@
+[**GTALIGN: GAME-THEORETIC ALIGNMENT OF LLM ASSISTANTS FOR MUTUAL WELFARE**](https://www.alphaxiv.org/abs/2510.08872) 2025.10
+
 [**A Game Theory-Reinforcement Learning Approach to Cooperation for UAVs**](https://www.alphaxiv.org/private/448f0c11-d285-48cc-bc55-ce226dcd1214) 2025.6
 
 * 将博弈论和强化学习结合，解决动态环境下无人机集群的协作问题
